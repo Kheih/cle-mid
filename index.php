@@ -13,7 +13,7 @@
 
 <rect x="650" y="500" width="150" height="40" style="fill:#ffdbdc; stroke:pink; "/>
     
-	   <text x="400" y="340"  fill="Pink" font-size="60px" >Send flowers like you mean it! </text>
+	   <text x="350" y="340"  fill="Pink" font-size="60px" >Send flowers like you mean it! </text>
     <text x="500" y="400"  fill="black" font-size="30px" >Send stunning flowers from independent </text>
 	<text x="620" y="445"  fill="black" font-size="30px" > florist in the U.K.</text>
 	
